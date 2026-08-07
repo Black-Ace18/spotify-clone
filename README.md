@@ -30,3 +30,11 @@ A responsive Spotify-inspired music streaming web application built using pure H
 - Fetch API
 - Audio API
 - Dynamic UI Rendering
+
+## Visual Representation
+
+<br>
+
+<p align="center">
+  <img src="./spotify.png" alt="Portal Screenshot">
+</p>
